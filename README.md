@@ -88,7 +88,6 @@ This trend is reflected in the "Sales by Retailers Group Under Suppliers" cross 
 Figure 8. Sales by retailer, split by shipping carrier (DHL, FedEx, UPS, USPS).
 
 
-There is also a "Key Influencers" AI visual, which will shed light on what makes a retailer to be Walmart. The driving factor is not stated in the explanatory sentence and so this diagnostic is not interpretable from the exported file, although it is a promising follow-up analysis angle.
 
 
 4. Geographic Distribution
