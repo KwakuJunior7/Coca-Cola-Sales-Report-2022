@@ -1,4 +1,4 @@
-# Coca-Cola Company Sales Analysis 2022.Coca-
+# Coca-Cola Company Sales Analysis 2022
 # Power BI Dashboard Review & Business Insights 
 # Data from the "Sales Made by Coca-Cola Company in 2022” by Junior Owusu Ansah
 
